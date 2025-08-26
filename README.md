@@ -1,4 +1,4 @@
-# Portfolio Webseite
+# Portfolio Website
 
 ## Features
 
@@ -6,8 +6,6 @@
 - User settings stored in session storage
 - Dark and Light mode available
 - Easy data modification through a single `data.tsx` file
-- Gziped and lazy loaded Data
-- Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - Smooth scrolling in each section.Contains animations when scrolling.
 - Uptime Service with colored animation
